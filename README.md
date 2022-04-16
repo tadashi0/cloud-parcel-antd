@@ -38,9 +38,10 @@ yarn build:release //测试环境
 
 ## 访问方式
 
-[http://localhost:1234]: 
+[http://localhost:1234](http://localhost:1234)
 
 ------
 
 - Parcel
 - Antd
+
